@@ -1,0 +1,6 @@
+interface:
+  display_name: "Course Book Distiller"
+  short_description: "Distill course books into tutor packs"
+  default_prompt: "Use $course-book-distiller to inventory course materials, split holdouts, distill a study/teaching pack, and evaluate answers."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+node_modules/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+output/**/qa_render/
+output/**/qa_render_v2/
